@@ -1,4 +1,5 @@
 # Import necessary packages
+# Code copied from Coursera Lab https://www.coursera.org/learn/building-gen-ai-powered-applications/
 from ibm_watson_machine_learning.foundation_models import Model
 import gradio as gr
 

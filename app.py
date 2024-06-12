@@ -9,4 +9,4 @@ tabbed_ui = gr.TabbedInterface(
     title="Career Advising App"
 )
 # Launch the application
-tabbed_ui.launch()
+tabbed_ui.launch(server_name="0.0.0.0", server_port=8080)
